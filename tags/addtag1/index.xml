@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addtag1 on carvaka88@gmail.com</title>
+    <link>http://localhost:1313/tags/addtag1/</link>
+    <description>Recent content in Addtag1 on carvaka88@gmail.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Dec 2025 14:33:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/addtag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Punjabi in Pakistan</title>
+      <link>http://localhost:1313/general/punjabi-in-pakistan/</link>
+      <pubDate>Thu, 25 Dec 2025 14:33:06 -0500</pubDate>
+      <guid>http://localhost:1313/general/punjabi-in-pakistan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

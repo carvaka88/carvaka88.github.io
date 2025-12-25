@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Personal Web site of carvaka8@gmail.com</description>
     </item>
+    <item>
+      <title>Punjabi in Pakistan</title>
+      <link>http://localhost:1313/general/punjabi-in-pakistan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/general/punjabi-in-pakistan/</guid>
+      <description>&lt;p&gt;It is interesting to note that Abdus Salam, Nobel Prize winnner for Physics in 1979 gave his convocation address at Gurudev Nanak university of Amritsar on 25 January 1981 in rural Punjabi.  He also received his Nobel Prize in traditional Punjabi attire.  He needed some help in wrapping his turban around properly.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
