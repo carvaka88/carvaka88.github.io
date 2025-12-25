@@ -1,0 +1,54 @@
+.container {
+   margin: 0 auto;
+   width: 90%;
+}
+
+topnav {
+   /*background-color:#2b386a;*/
+   background-color:black;
+   color:#fff;
+   text-align:center;
+}
+
+footer {
+   background-color:black;
+   color:#fff;
+   text-align:center;
+}
+
+topnav {
+  display: flex;
+  flex-direction: row;
+}
+
+a:hover{
+    background-color:red;
+    color:white;
+}
+a:active{
+    background-color:red;
+    color:white;
+}
+
+topnav > a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+topnav a.active {
+  background-color: red;
+  color: white;
+}
+
+aside {
+  background-color: red
+  color: blue
+   text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  topnav { flex-direction: row; }
+}
+  
