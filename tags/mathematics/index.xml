@@ -6,14 +6,21 @@
     <description>Recent content in Mathematics on carvaka88@gmail.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 11:30:02 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 14:26:57 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics Factoids</title>
+      <link>http://localhost:1313/techbits/mathematics-factoids/</link>
+      <pubDate>Fri, 26 Dec 2025 14:26:57 -0500</pubDate>
+      <guid>http://localhost:1313/techbits/mathematics-factoids/</guid>
+      <description>&lt;p&gt;I found these concepts challenging for me, not their use in symbol shuffling.  I planned to update thee but never got around to it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vedic Mathematics</title>
       <link>http://localhost:1313/general/vedic-mathematics/</link>
       <pubDate>Fri, 26 Dec 2025 11:30:02 -0500</pubDate>
       <guid>http://localhost:1313/general/vedic-mathematics/</guid>
-      <description>I wondered about what is &amp;ldquo;Vedic&amp;rdquo; about &amp;ldquo;Vedic Mathematics&amp;rdquo;.</description>
+      <description>&lt;p&gt;I wondered about what is &amp;ldquo;Vedic&amp;rdquo; about &amp;ldquo;Vedic Mathematics&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pkencrypt</title>

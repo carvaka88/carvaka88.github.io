@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Addtag2 on carvaka88@gmail.com</title>
-    <link>http://localhost:1313/tags/addtag2/</link>
-    <description>Recent content in Addtag2 on carvaka88@gmail.com</description>
+    <title>Theory on carvaka88@gmail.com</title>
+    <link>http://localhost:1313/tags/theory/</link>
+    <description>Recent content in Theory on carvaka88@gmail.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Dec 2025 14:26:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/addtag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathematics Factoids</title>
       <link>http://localhost:1313/techbits/mathematics-factoids/</link>
       <pubDate>Fri, 26 Dec 2025 14:26:57 -0500</pubDate>
       <guid>http://localhost:1313/techbits/mathematics-factoids/</guid>
-      <description>&lt;p&gt;I found these concepts challenging for me, not their use in symbol shuffling.  I planned to update thee but never got around to it.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I found these concepts challenging for me, not their use in symbol shuffling.  I planned to add (many?) more but never got around to it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
