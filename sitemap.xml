@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-25T09:39:45-05:00</lastmod>
+    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jinnah/</loc>
+    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/jinnah/</loc>
+    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pakistan/</loc>
+    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cryptography/</loc>
     <lastmod>2025-12-25T09:39:45-05:00</lastmod>
@@ -12,9 +24,6 @@
     <lastmod>2025-12-25T09:39:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/techbits/pkencrypt/</loc>
-    <lastmod>2025-12-25T09:39:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-25T09:39:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/alberuni/</loc>
@@ -35,9 +44,6 @@
     <loc>http://localhost:1313/tags/mughals/</loc>
     <lastmod>2025-12-24T14:26:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pakistan/</loc>
-    <lastmod>2025-12-24T14:26:02-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-12-24T14:25:26-05:00</lastmod>
   </url><url>
@@ -54,5 +60,9 @@
     <lastmod>2025-12-24T14:25:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/punjabi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/general/punjabi-in-pakistan/</loc>
   </url>
 </urlset>
