@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-26T14:26:57-05:00</lastmod>
+    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/addtag2/</loc>
-    <lastmod>2025-12-26T14:26:57-05:00</lastmod>
+    <loc>http://localhost:1313/tags/india-religions/</loc>
+    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tantra/</loc>
+    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/tantra-hugh-urba/</loc>
+    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/islam/</loc>
+    <lastmod>2025-12-26T15:07:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/islam-and-science/</loc>
+    <lastmod>2025-12-26T15:07:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/science/</loc>
+    <lastmod>2025-12-26T15:07:15-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mathematics/</loc>
     <lastmod>2025-12-26T14:26:57-05:00</lastmod>
@@ -14,7 +32,7 @@
     <loc>http://localhost:1313/techbits/mathematics-factoids/</loc>
     <lastmod>2025-12-26T14:26:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/theory/</loc>
     <lastmod>2025-12-26T14:26:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vedas/</loc>
@@ -24,9 +42,6 @@
     <lastmod>2025-12-26T11:30:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/alidashti/</loc>
-    <lastmod>2025-12-26T10:58:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/islam/</loc>
     <lastmod>2025-12-26T10:58:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/quran/</loc>
