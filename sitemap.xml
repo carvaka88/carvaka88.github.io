@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/india-religions/</loc>
-    <lastmod>2025-12-26T15:44:35-05:00</lastmod>
+    <loc>http://localhost:1313/tags/british-in-india/</loc>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/india/</loc>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/trautman/</loc>
+    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pakistan/</loc>
+    <lastmod>2026-01-02T10:08:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/persian/</loc>
+    <lastmod>2026-01-02T10:08:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/persian-in-south-asia/</loc>
+    <lastmod>2026-01-02T10:08:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/india-religions/</loc>
     <lastmod>2025-12-26T15:44:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tantra/</loc>
@@ -53,9 +74,6 @@
     <loc>http://localhost:1313/general/jinnah/</loc>
     <lastmod>2025-12-26T10:45:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pakistan/</loc>
-    <lastmod>2025-12-26T10:45:30-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/cryptography/</loc>
     <lastmod>2025-12-25T09:39:45-05:00</lastmod>
   </url><url>
@@ -72,9 +90,6 @@
     <lastmod>2025-12-24T14:39:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/akbar/</loc>
-    <lastmod>2025-12-24T14:26:02-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
     <lastmod>2025-12-24T14:26:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mughals/</loc>
