@@ -3,18 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
+    <lastmod>2026-01-02T13:27:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/addtag1/</loc>
+    <lastmod>2026-01-02T13:27:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/addtag2/</loc>
+    <lastmod>2026-01-02T13:27:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/hindi-and-urdu/</loc>
+    <lastmod>2026-01-02T13:27:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-02T13:27:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/maratha/</loc>
+    <lastmod>2026-01-02T13:17:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mughals/</loc>
+    <lastmod>2026-01-02T13:17:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/ramdas/</loc>
+    <lastmod>2026-01-02T13:17:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2026-01-02T13:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/history/</loc>
+    <lastmod>2026-01-02T13:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/narratives/</loc>
+    <lastmod>2026-01-02T13:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/bernard-cohn/</loc>
+    <lastmod>2026-01-02T11:21:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/british-india/</loc>
+    <lastmod>2026-01-02T11:21:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/orientalism/</loc>
+    <lastmod>2026-01-02T11:21:24-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/british-in-india/</loc>
     <lastmod>2026-01-02T10:49:35-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
-    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/india/</loc>
-    <lastmod>2026-01-02T10:49:35-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-02T10:49:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/trautman/</loc>
@@ -90,9 +123,6 @@
     <lastmod>2025-12-24T14:39:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/akbar/</loc>
-    <lastmod>2025-12-24T14:26:02-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mughals/</loc>
     <lastmod>2025-12-24T14:26:02-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
