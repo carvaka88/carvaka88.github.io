@@ -3,22 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/mughals-abraham-erally/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/india/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mughals/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-04T13:25:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arabic/</loc>
+    <lastmod>2026-01-04T13:13:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/arabic-in-pakistan/</loc>
+    <lastmod>2026-01-04T13:13:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/culture/</loc>
+    <lastmod>2026-01-04T13:13:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pakistan/</loc>
+    <lastmod>2026-01-04T13:13:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/identity/</loc>
+    <lastmod>2026-01-04T12:58:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/pakistan-culture/</loc>
+    <lastmod>2026-01-04T12:58:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/partition/</loc>
+    <lastmod>2026-01-04T11:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/anderson-on-nehru/</loc>
+    <lastmod>2026-01-04T11:22:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/john-beans-indian-languages/</loc>
+    <lastmod>2026-01-04T10:35:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/general/history-of-sindh/</loc>
+    <lastmod>2026-01-04T10:30:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sindh/</loc>
+    <lastmod>2026-01-04T10:30:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/british/</loc>
     <lastmod>2026-01-04T10:21:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/addtag1/</loc>
-    <lastmod>2026-01-04T10:21:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/addtag2/</loc>
+    <loc>http://localhost:1313/tags/marathas/</loc>
     <lastmod>2026-01-04T10:21:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/steward-gordon-on-marathas/</loc>
     <lastmod>2026-01-04T10:21:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-01-04T10:21:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
-    <lastmod>2026-01-03T09:18:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/shivaji-samadhi/</loc>
     <lastmod>2026-01-03T09:18:19-05:00</lastmod>
@@ -26,13 +68,7 @@
     <loc>http://localhost:1313/tags/shivaji/</loc>
     <lastmod>2026-01-03T09:18:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arabic/</loc>
-    <lastmod>2026-01-02T13:47:40-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/general/arabic-and-persian/</loc>
-    <lastmod>2026-01-02T13:47:40-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/india/</loc>
     <lastmod>2026-01-02T13:47:40-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/persian/</loc>
@@ -51,9 +87,6 @@
     <lastmod>2026-01-02T13:27:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/maratha/</loc>
-    <lastmod>2026-01-02T13:17:50-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mughals/</loc>
     <lastmod>2026-01-02T13:17:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/ramdas/</loc>
@@ -79,9 +112,6 @@
   </url><url>
     <loc>http://localhost:1313/general/trautman/</loc>
     <lastmod>2026-01-02T10:49:35-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pakistan/</loc>
-    <lastmod>2026-01-02T10:08:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/general/persian-in-south-asia/</loc>
     <lastmod>2026-01-02T10:08:26-05:00</lastmod>
